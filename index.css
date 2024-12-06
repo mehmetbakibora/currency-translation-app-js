@@ -1,0 +1,46 @@
+body {
+    background-color: #2a2a2a;
+}
+
+.title {
+    color: #ffc107 !important;
+}
+
+#currency_one {
+    background-color: #2a2a2a;
+}
+
+#currency_two {
+    background-color: #2a2a2a;
+}
+
+#amount {
+    background-color: #2a2a2a;
+}
+
+#currency_one::placeholder {
+    color: #fff;
+}
+
+#currency_two::placeholder {
+    color: #fff;
+}
+
+#amount::placeholder {
+    color: #fff;
+}
+
+input[type="text"],
+input[type="number"] {
+    color: #fff;
+}
+
+input:focus {
+    color: #fff !important;
+}
+
+.card-body {
+    background-color: #2a2a2a;
+    color: #ffc107;
+    font-size: 30px;
+}
