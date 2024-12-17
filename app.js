@@ -9,6 +9,8 @@ const amount = document.querySelector('#amount');
 const calculate = document.querySelector('#calculate');
 const result = document.querySelector('#result');
 
+// fetch api
+
 
 fetch(url + '/codes')
     .then(res => res.json())
